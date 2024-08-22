@@ -1,4 +1,4 @@
-<img src="./Images/python.jpg" alt="Python logo">
+<img src="./images/py.jpg" alt="Python logo">
 <code>
 Tanvir Tonoy --> <a href="#">FaceBook</a>
 </code>
