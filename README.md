@@ -1,3 +1,1 @@
-<code>
-<img src="./Images/dd.webp" alt="python">   
-</code>
+# Learn Everything you can #
